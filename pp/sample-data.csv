@@ -1,0 +1,9 @@
+user_id,event,timestamp,properties
+u_001,signup,2026-06-01T10:00:00Z,{"plan":"free"}
+u_001,activate,2026-06-01T10:05:00Z,{}
+u_001,purchase,2026-06-02T11:00:00Z,{"amount":29}
+u_002,signup,2026-06-02T09:00:00Z,{"plan":"free"}
+u_002,activate,2026-06-02T09:30:00Z,{}
+u_003,signup,2026-06-03T08:00:00Z,{"plan":"pro"}
+u_003,activate,2026-06-03T08:10:00Z,{}
+u_003,purchase,2026-06-04T12:00:00Z,{"amount":99}
